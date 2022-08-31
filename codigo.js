@@ -156,7 +156,7 @@ for (animal of animales){
 } */
 
 
-array1 = ["maria","josefa","roberta"];
+/* array1 = ["maria","josefa","roberta"];
 array2 = ["pedro","marcelo",array1,"josefina"];
 
 forRancio:
@@ -170,4 +170,10 @@ for (let array in array2){
   }else {
     document.write(array2[array] + "<br>");
   }
-}
+} */
+
+/* console.log('HOla mundo')
+
+let a = 20;
+let b = 14;
+console.log(a+b) */
